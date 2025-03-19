@@ -79,3 +79,7 @@ function actualizarAmigoSorteado (amigoSorteado){
     HTMLamigoSorteado.innerHTML = `Tu amigo secreto es: ${amigoSorteado}`;
 }; 
 
+/* Cosas que pueedene mejorar: 
+1. El boton de reeiniciar juegos.
+2. Agregar el enter como evento
+3. El reinicio automático del sorteo una vez se sorteen todos los amigos.*/
